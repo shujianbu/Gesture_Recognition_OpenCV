@@ -1,2 +1,2 @@
-Gesture_Recognition_OpenCV
+Gesture Recognition Python-OpenCV
 ==========================
